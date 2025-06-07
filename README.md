@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xiaomichael&show_icons=true&theme=radical" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaomichael&layout=compact&theme=radical" height="150">
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Xiaomichael&theme=radical&row=1&column=7" height="95">
+<img src="https://github-readme-stats.vercel.app/api?username=Xiaomichael&count_private=true&theme=tokyonight" height="150">
 
 <!-- Contribution Snake 动态图自适应主题 -->
 <picture>
