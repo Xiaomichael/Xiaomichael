@@ -9,5 +9,4 @@
   <source srcset="https://raw.githubusercontent.com/Xiaomichael/Xiaomichael/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/Xiaomichael/Xiaomichael/output/github-contribution-grid-snake-white.svg" alt="Contribution Snake" />
 </picture>
-
 </div>
