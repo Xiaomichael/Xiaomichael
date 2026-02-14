@@ -1,5 +1,7 @@
 ## 嘿，你好w！
 
+这里是小小~ 很高兴认识你~
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xiaomichael&count_private=true&theme=tokyonight" height="150">
