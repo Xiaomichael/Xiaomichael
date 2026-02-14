@@ -1,7 +1,7 @@
 name: Generate Contribution Snake
 
 on:
-  workflow_dispatch:        # 支持手动触发
+  workflow_dispatch:
 
 jobs:
   generate-snake:
